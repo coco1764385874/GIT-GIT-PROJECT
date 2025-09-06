@@ -157,6 +157,7 @@ u{
     justify-content: space-around;
     flex-wrap: wrap;
     font-family: Arial, sans-serif;
+    margin-top: 80px;
 }
 
 .footer-column {
